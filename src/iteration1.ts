@@ -3,3 +3,7 @@
 //
 
 
+function sayHello(userName:string):string{
+    return `hello ${userName}, how are you?`
+
+}
